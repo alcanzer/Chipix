@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "389352938543",
+    "firebase_url": "https://chipix-82c47.firebaseio.com",
+    "project_id": "chipix-82c47",
+    "storage_bucket": "chipix-82c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389352938543:android:cdc170c55a358548",
+        "android_client_info": {
+          "package_name": "katur1j.cps596a.cmich.edu.chipix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389352938543-cddl2um9m0p5rop3b59nmeeq3p7as402.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "katur1j.cps596a.cmich.edu.chipix",
+            "certificate_hash": "B34E6E5C3BA48F501931D7C59C525FCBE494A536"
+          }
+        },
+        {
+          "client_id": "389352938543-04791a6f4mn48lcfib2jc71p53n4n3pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgCmEplK1Zl1-StD8MGSYUtl6a2aq-Dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389352938543-04791a6f4mn48lcfib2jc71p53n4n3pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
